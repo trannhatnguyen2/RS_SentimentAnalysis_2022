@@ -9,7 +9,7 @@
 | K204060307 | K20406C | Nguyen Tran Thuy Quynh | Leader |
 | K204060288 | K20406  | Bui Nguyen Bich Ngoc   | Member |
 | K204110588 | K20411  | Nguyen Thi Bao Tram    | Member |
-| K204061446 | K20406T | Tran Nhat Nguyen       | Member |
+| K204061440 | K20406T | Tran Nhat Nguyen       | Member |
 | K204060299 | K20406  | Vo Ba Tung             | Member |
 
 # 📕 Table of contents
