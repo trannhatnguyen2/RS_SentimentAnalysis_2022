@@ -1,4 +1,4 @@
-# [Customer experience discovery model based on sentiment analysis and machine learning method]()
+# [Customer experience discovery model based on sentiment analysis and machine learning method](https://github.com/trannhatnguyen2/RS_SentimentAnalysis_2022)
 
 ## Member of group
 
@@ -30,7 +30,7 @@ Understanding customer psychology is one of the key issues in a business's long-
 # 🧙‍♂️ Proposed Model
 
 <p align="center">
-<img src="./img/Propose_Model.png" width=80% height=80%>
+<img src="./img/Propose_Model.png" width=65% height=65%>
 
 <p align="center">
     Proposed Model
@@ -49,7 +49,7 @@ The data was collected from four major mobile commerce applications in Vietnam, 
 | Bảo Nguyễn | Shopee siêu xịn luôn ạ!! | 02/12/2021 | 5     | 10            | Shopee  |
 | Thư Ngọc   | trang mua sắm tiện lợi   | 06/12/2021 | 5     | 0             | Tiki    |
 
-## [Exploratory Data Analysis (EDA)]()
+## [Exploratory Data Analysis (EDA)](https://github.com/trannhatnguyen2/RS_SentimentAnalysis_2022/blob/main/src/get_review_app.ipynb)
 
 EDA is the process of summarizing a dataset in a general way, identifying the main characteristics of the data, often using statistical graphics and other intuitive data visualization methods.
 
@@ -69,7 +69,7 @@ We filtered out outliers that fell outside the upper and lower fences of the col
     Handle Outlier
 </p>
 
-## [Pre-processing]()
+## [Pre-processing](https://github.com/trannhatnguyen2/RS_SentimentAnalysis_2022/blob/main/src/pre-processing.ipynb)
 
 When collecting datasets from mobile commerce applications, the data is in raw form (not yet processed, with some fields empty, misspelled, containing special characters or emoticons, etc.), and this data can reduce the accuracy of the results of the models.
 
@@ -89,11 +89,11 @@ When collecting datasets from mobile commerce applications, the data is in raw f
 | Bảo Nguyễn | phí vận chuyển quá đắt | 15/11/2021 | 1     | 5             | Shopee  | Neg   |
 | Thư Ngọc   | trang mua_sắm tiện lợi | 20/11/2021 | 5     | 0             | Tiki    | Pos   |
 
-## [Feature Extraction]()
+## [Feature Extraction](https://github.com/trannhatnguyen2/RS_SentimentAnalysis_2022/blob/main/src/feature_extraction_%26_algorithms.ipynb)
 
 The TF-IDF feature extraction method is applied to build a weight vector that represents the frequency of word occurrence in customer comments.
 
-## [Model Evaluation]()
+## [Model Evaluation](https://github.com/trannhatnguyen2/RS_SentimentAnalysis_2022/blob/main/src/feature_extraction_%26_algorithms.ipynb)
 
 | ML  | Precision | Recall | F_score | Accuracy | Training Time | Prediction Time |
 | --- | --------- | ------ | ------- | -------- | ------------- | --------------- |
@@ -107,21 +107,21 @@ Based on the evaluation metrics above, we believe that the Logistic Regression a
 # 📊 Result
 
 <p align="center">
-<img src="./img/wordcloud_review_app_pos.png" width=70% height=70%>
+<img src="./img/wordcloud_review_app_pos.png" width=60% height=60%>
 
 <p align="center">
     WordCloud Positive
 </p>
 
 <p align="center">
-<img src="./img/Distribution_of_Length_in_Reviews.png" width=70% height=70%>
+<img src="./img/Distribution_of_Length_in_Reviews.png" width=60% height=60%>
 
 <p align="center">
     Distribution of Length
 </p>
 
 <p align="center">
-<img src="./img/Length_vs_Score.png" width=70% height=70%>
+<img src="./img/Length_vs_Score.png" width=60% height=60%>
 
 <p align="center">
     The relationship between the length and the rating score
