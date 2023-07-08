@@ -1,4 +1,4 @@
-# [Customer experience discovery model based on sentiment analysis and machine learning method](https://github.com/trannhatnguyen2/RS_SentimentAnalysis_2022)
+# [Customer Experience discovery model based on Sentiment Analysis and Machine Learning method](https://github.com/trannhatnguyen2/RS_SentimentAnalysis_2022)
 
 ## Member of group
 
